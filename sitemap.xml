@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ChaoliTan.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://ChaoliTan.github.io/authors/</loc>
   </url>
   
@@ -15,7 +11,11 @@
   </url>
   
   <url>
-    <loc>https://ChaoliTan.github.io/author/nelson-bighetti/</loc>
+    <loc>https://ChaoliTan.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/author/chaoli-tan/</loc>
   </url>
   
   <url>
