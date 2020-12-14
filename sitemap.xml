@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ChaoliTan.github.io/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/tag/kubernetes/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/tag/microservice/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/project/guli-mall/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/project/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/tag/spring-cloud/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/tags/</loc>
+    <lastmod>2020-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ChaoliTan.github.io/authors/</loc>
   </url>
   
@@ -11,11 +46,11 @@
   </url>
   
   <url>
-    <loc>https://ChaoliTan.github.io/</loc>
+    <loc>https://ChaoliTan.github.io/author/chaoli-tan/</loc>
   </url>
   
   <url>
-    <loc>https://ChaoliTan.github.io/author/chaoli-tan/</loc>
+    <loc>https://ChaoliTan.github.io/tag/demo/</loc>
   </url>
   
   <url>
@@ -35,7 +70,11 @@
   </url>
   
   <url>
-    <loc>https://ChaoliTan.github.io/tags/</loc>
+    <loc>https://ChaoliTan.github.io/project/survey-form/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ChaoliTan.github.io/project/terry-fox/</loc>
   </url>
   
 </urlset>
